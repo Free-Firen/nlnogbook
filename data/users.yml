@@ -279,3 +279,10 @@ Michael_wd6:
     - MJ84126-RIPE
   companies:
      - WD6.net
+Firen:
+  full_name: Jesse vd Berg
+  country: nl
+  rir_handle:
+    - JVDB388-RIPE
+  companies:
+    - fredom
